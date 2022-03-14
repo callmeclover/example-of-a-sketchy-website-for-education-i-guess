@@ -1,1 +1,6 @@
-
+html {
+color: white;
+  background-color: black;
+  font-family: "Lucidia Console", monospace;
+  text-align: center;
+}
