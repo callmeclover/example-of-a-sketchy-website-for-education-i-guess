@@ -1,1 +1,21 @@
-
+html {
+color: white;
+  background-color: black;
+  font-family: "Lucidia Console", monospace;
+}
+.example1 {
+margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+    border: 2px solid red;
+  border-radius: 5px;
+}
+.example2 {
+margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+    border: 2px solid blue;
+  border-radius: 5px;
+}
